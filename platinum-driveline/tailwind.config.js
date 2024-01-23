@@ -8,7 +8,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        naranja: "#e46023",
+        naranja: "#e98512",
+        gris_oscuro: "#303030",
+        gris_ligero: "#707070",
+        azul_delphi: "#004aca",
       },
     },
   },
