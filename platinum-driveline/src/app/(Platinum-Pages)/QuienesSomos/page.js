@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Link from "next/link";
-import sample from "../../../../public/NS73-3.png";
 
 function page() {
   return (
@@ -11,13 +10,13 @@ function page() {
         <section className="basis-2/5">
           {/* <Image
             quality={60}
-            src="/PlatinumHQ.png"
+            src=  "/PlatinumHQ.png"
             alt="Boletin #1"
             width={360}
             height={300}
             className="w-full rounded-sm"
           /> */}
-          <video src="/sample.mp4" autoPlay loop />
+          <video src="/Platinum.mp4" autoPlay loop />
           {/* <iframe
             width="560"
             height="315"

@@ -32,7 +32,7 @@ export default function Home() {
             className="py-[40px]"
           />
           <Link href="/Platinum">
-            <button class="border border-white rounded-lg px-9 py-3 hover:border-naranja hover:text-naranja">
+            <button className="border border-white rounded-lg px-9 py-3 hover:border-naranja hover:text-naranja">
               Conoce Más
             </button>
           </Link>
@@ -48,7 +48,7 @@ export default function Home() {
             className="py-[40px]"
           />
           <Link href="/Delphi">
-            <button class="border border-white rounded-lg px-9 py-3 hover:border-naranja hover:text-naranja">
+            <button className="border border-white rounded-lg px-9 py-3 hover:border-naranja hover:text-naranja">
               Conoce Más
             </button>
           </Link>
